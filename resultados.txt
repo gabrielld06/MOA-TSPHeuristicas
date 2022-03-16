@@ -1,0 +1,6 @@
+Instancia 	Size 	Solução Otima 	Obtido
+att48 		48 		33522 			38905.7
+KroA100		100		21282			23616
+Tsp225		225		3916			4448.73
+pla33810	33810	?				-nan
+
